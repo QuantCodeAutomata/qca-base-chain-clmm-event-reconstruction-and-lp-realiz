@@ -1,0 +1,58 @@
+{
+  "raw": {
+    "stage": "raw",
+    "total": 3381,
+    "by_pool": {
+      "uniswap_v3_005": 1144,
+      "aerodrome_ss_005": 1222,
+      "pancakeswap_v3_001": 791,
+      "sushiswap_v3_001": 224
+    }
+  },
+  "filtered": {
+    "stage": "filtered",
+    "total": 3341,
+    "by_pool": {
+      "uniswap_v3_005": 1131,
+      "aerodrome_ss_005": 1208,
+      "pancakeswap_v3_001": 781,
+      "sushiswap_v3_001": 221
+    }
+  },
+  "used": {
+    "stage": "used",
+    "total": 3321,
+    "by_pool": {
+      "uniswap_v3_005": 1124,
+      "aerodrome_ss_005": 1203,
+      "pancakeswap_v3_001": 778,
+      "sushiswap_v3_001": 216
+    }
+  },
+  "burn_plus_stats": {
+    "uniswap_v3_005": {
+      "total_burns": 2267,
+      "matched": 2267,
+      "unmatched": 0,
+      "matched_fraction": 1.0
+    },
+    "aerodrome_ss_005": {
+      "total_burns": 2376,
+      "matched": 2376,
+      "unmatched": 0,
+      "matched_fraction": 1.0
+    },
+    "pancakeswap_v3_001": {
+      "total_burns": 1506,
+      "matched": 1506,
+      "unmatched": 0,
+      "matched_fraction": 1.0
+    },
+    "sushiswap_v3_001": {
+      "total_burns": 437,
+      "matched": 437,
+      "unmatched": 0,
+      "matched_fraction": 1.0
+    }
+  }
+}
